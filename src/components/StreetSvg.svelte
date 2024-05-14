@@ -9,7 +9,7 @@
   const isDev = process.env.NODE_ENV === "development";
   const placeholder = "https://via.placeholder.com/800x300";
 
-  const rootpath = isDev ? "/" : "/MAM";
+  const rootpath = isDev ? "/" : "/economia";
   export let step;
 
   let maderaPaths;
