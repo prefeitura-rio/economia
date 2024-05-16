@@ -75,43 +75,7 @@
   <div class="intro-wrapper">
     <!-- <div class="absolute w-full"> -->
     <Header />
-    <!-- </div> -->
-    <div class="overlays">
-      <div class="intro-svg">
-        <img src="assets/img/00_CAPA_SEM_FUNDO.png" alt="Map of the United States"/>
-       </div>
-   
-    </div>
-    {#if w < 700}
-      <div class="hed">
-        <p style='margin-top:5rem; font-size:50px !important' class="hed-text">Museu Renovado, Parque Vivo</p>
-        <div class="intro-block">
-          <p class="intro-text">{copy.description}</p>   
-          <p class="intro-text">{copy.description_continuation}</p>
-          <p class="byline sm">
-            Desenvolvido por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
-          </p>
-        </div>
-      </div>
-    {:else}
-      <div class="hed">
-        <!-- <div><p class="hed-text">On</p></div> -->
-        <div class="hed-block">
-          <p class="hed-text"><span bind:clientWidth={introBlockW}>Museu Renovado, Parque Vivo</span></p>
-          <div class="intro-block">
-            <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
-           
-          <p class="intro-text"style="max-width: {introBlockW}px" >{copy.description_continuation}</p>
-            <p class="mb-1 byline sm">
-              Desenvolvido por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
-            </p>
-            
-          </div>
-        </div>
-        <!-- <div><p class="hed-text">Mobility</p></div> -->
-      </div>
-    {/if}
-    <h1 aria-label="On Upward Mobility">On Upward Mobility</h1>
+    
   </div>
   {#if h != undefined}
     <Stains height={h} />
@@ -152,6 +116,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-end;
     padding: 0 1rem;
     max-width: 80rem;
     margin: 3rem auto 0 auto;
@@ -168,9 +133,9 @@
     font-family: var(--dubois-wide);
     text-transform: uppercase;
     font-size: 4rem !important;
-    padding: 0;
+    padding: 0 auto;
     line-height: 1;
-    margin-top:-50px 
+    /* margin-top:-50px  */
   }
 
   .hed-text span {

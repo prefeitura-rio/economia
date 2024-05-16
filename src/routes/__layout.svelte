@@ -6,4 +6,4 @@
 <main id="content">
   <slot />
 </main>
-<!-- <Footer /> -->
+<Footer />

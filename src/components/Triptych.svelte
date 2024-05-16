@@ -24,29 +24,25 @@
   export let text
 </script>
 
-  <div class="trip-wrapper"
-    use:inView
-    on:enter={() => showPhotos()}>
-    <div id="package" class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
-      <div class="border-2 border-black" id="madera-triptych">
-        <ImageRaw src="assets/img/madera.jpg" />
-      </div>
-      <div class="border-2 border-black" id="gardena1-triptych">
-        <ImageRaw src="assets/img/gardena.jpg" />
-      </div>
-      <div class="border-2 border-black" id="gardena2-triptych">
-        <ImageRaw src="assets/img/gardena2.jpg" />
-      </div>
+<div class="trip-wrapper" use:inView on:enter={() => showPhotos()}>
+  <div id="package" class="relative">
+    <div class="border-2 border-black" id="madera-triptych">
+      <iframe width="100%" height="350px" src="https://www.youtube.com/embed/2-ExbJw6iRE?si=vjeKtda-QT1emjgx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-    <Block>
-      <p class="mt-2 text-label">{@html text ?? ""}</p>
-    </Block>
+    <div class="border-2 border-black" id="gardena1-triptych">
+      <iframe width="100%" height="350px" src="https://www.youtube.com/embed/2-ExbJw6iRE?si=vjeKtda-QT1emjgx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
+    <div class="border-2 border-black" id="gardena2-triptych">
+      <iframe width="100%" height="350px" src="https://www.youtube.com/embed/2-ExbJw6iRE?si=vjeKtda-QT1emjgx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    </div>
   </div>
+  <Block>
+    <p class="mt-2 text-label">{@html text ?? ""}</p>
+  </Block>
+</div>
 
   <style>
     .trip-wrapper {
-      height: calc(100vw*1.25);
-      padding: 1rem 1rem 0rem 1rem;
+      height: calc(120vw*1.25);
+      /* padding: 1rem 1rem 0rem 1rem; */
       max-width: 60rem;
       max-height: 60rem;
       margin: 0 auto;
@@ -82,12 +78,12 @@
     }
 
     #gardena1-triptych {
-      top: 25%;
+      top: 37%;
       right: 0;
     }
 
     #gardena2-triptych {
-      bottom: 0;
+      bottom: -20%;
       left: 0;
     }
 
@@ -116,7 +112,7 @@
       }
 
       #madera-triptych, #gardena1-triptych, #gardena2-triptych {
-        width: 55%;
+        width: 75%;
       }
 
       #gardena2-triptych {
@@ -125,29 +121,47 @@
     }
 
     @media only screen and (max-width: 620px) {
+    
+    .trip-wrapper {
+      margin-top: -5rem;
+      max-width: 100%;
+      height: calc(250vw*1.3);
+      max-height: calc(250vw*1.3);
+    }
+    
       .text-label{
         padding-top:50px;
 
       }
     
       #package{
-      padding-bottom:425px;
+      padding-top:425px;
+      height: 2000px !important;
+      overflow: hidden;
     }
     #madera-triptych {
-      transform: scale(1.5);
-      top: -10rem;
-      left: 2rem;
+      /* transform: scale(1.5); */
+      transform: rotate(25deg);
+      width: 80%;
+      top: 2.5rem;
+      left: 2.5rem;
     }
 
     #gardena1-triptych {
-      transform: scale(1.7);
-      top: 5rem;
-      left:4.0rem
+      /* transform: scale(1.7); */
+      transform: rotate(-25deg);
+      width: 80%;
+      top: 20rem;
+      left:2rem
     }
 
     #gardena2-triptych {
-      transform: scale(1.6);
-      left:4rem;
+      transform: rotate(25deg);
+      width: 80%;
+      height: 70%;
+      /* transform: scale(1.6); */
+      top: 40rem;
+      left: -3rem;
     }
     }
   </style>

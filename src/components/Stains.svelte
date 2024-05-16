@@ -41,7 +41,7 @@
   });
 </script>
 
-<div class="stains" style="height: {height}px" bind:clientWidth={width}>
+<!-- <div class="stains" style="height: {height}px" bind:clientWidth={width}>
   {#if stains != undefined}
     {#each stains as stain, i}
       <div
@@ -49,7 +49,7 @@
       />
     {/each}
   {/if}
-</div>
+</div> -->
 
 <style>
   .stains {

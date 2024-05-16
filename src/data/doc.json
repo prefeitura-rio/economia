@@ -1,5 +1,5 @@
 {
-  "title": "economia",
+  "title": "Economia",
   "description": "Cartão postal do Rio, junto à paisagem da Baía de Guanabara, o Museu de Arte Moderna (MAM Rio) viveu dias de esplendor que marcaram a história cultural da cidade e do Brasil. Com o tempo, contudo, situações adversas contribuíram para a má conservação e fizeram com que este ícone da arquitetura mundial perdesse sua relevância no cenário cultural.",
   "description_continuation": "Mas isso vai mudar. Com o Rio sendo a capital do G20 em 2024, um projeto de restauração e requalificação do museu e seu entorno promete resgatar a originalidade modernista do espaço e sua relevância nacional e internacional, deixando um legado para uma cidade que olha para a frente.",
   "byline": "Aaron Williams",
@@ -8,43 +8,39 @@
   "keywords": "story",
   "intro": [  {
     "block": "subhead",
-    "text": "<div style='text-align:left '>A História</div>"
+    "text": "<div style='text-align:left '></div>"
   },
     {
       "block": "text",
-      "text": "Fundado em 1948, o Museu de Arte Moderna do Rio de Janeiro (MAM Rio) destaca-se como uma influente instituição cultural e artística no Brasil. Localizado no Parque do Flamengo, foi projetado pelo arquiteto franco-carioca  Affonso Eduardo Reidy, funcionário público que por anos trabalhou para a então Prefeitura do Distrito Federal, antes localizada no Rio de Janeiro.\r\n\r\n\r\n O museu abriga uma coleção notável com mais de <span style='font-weight:bold'> 16 mil obras de arte moderna e contemporânea</span>,e a segunda cinemateca mais antiga em atividade no país – com mais de 7 mil títulos e a maior coleção documental sobre o cinema brasileiro –, que o fizeram desempenhar um papel crucial no desenvolvimento artístico e cultural do Rio de Janeiro. \r\n\r\n\r\n Reconhecido como um marco da arquitetura moderna global, o conceito por trás do projeto de construção tinha como objetivo criar um “espaço fluente”, preservando a harmonia entre as pessoas e a paisagem circundante. \r\n\r\n\r\n Situado no Parque do Flamengo, o MAM Rio encontra-se próximo ao Aeroporto Santos Dumont (menos de 850 metros), ao Monumento Nacional aos Mortos da Segunda Guerra Mundial e a uma curta distância do Centro Histórico da cidade. Da sua localização, é possível avistar pontos emblemáticos como o Pão de Açúcar, a igreja histórica do Outeiro da Glória, o Corcovado e a Baía de Guanabara. Trata-se de um portal icônico entre o Centro e a Zona Sul do Rio."
+      "text": "Sabe o que Ana Karine, o Everton e o Alexandre têm em comum? Todos estes moradores da cidade maravilhosa conseguiram um emprego este ano. E assim como eles, 522 mil pessoas conseguiram uma ocupação nos últimos três anos. \r\n\r\n\r\n Ao todo, 3,3 milhões de pessoas estão empregadas no Rio em algum tipo de atividade remunerada, segundo dados coletados e analisados pela Secretaria Municipal de Desenvolvimento Urbano e Econômico (SMDUE), com base em informações do IBGE. \r\n\r\n\r\n O número é o maior já registrado desde o início da série histórica, iniciada em 2012. A taxa de desemprego, por sua vez, está no menor nível desde 2016. \r\n\r\n\r\n Neste especial, você conhecerá a história desses três trabalhadores e terá um panorama da atual recuperação da economia carioca."
     }
     
   ],
   "problema": [  {
     "block": "subhead",
-    "text": "<div style='text-align:left; margin-top:17rem'>Declínio</div>"
+    "text": "<div style='text-align:left; margin-top:17rem'>RAIO-X DO TRABALHADOR CARIOCA</div>"
   },
     {
       "block": "text",
-      "text": "Apesar de ter sido palco de importantes eventos diplomáticos no Brasil e abrigar importante acervo e atividades culturais, o MAM luta com sucessivos desequilíbrios entre receitas e despesas durante os últimos 20 anos. \r\n\r\n\r\n A história do museu ainda se mescla com um processo recente de urbanização, que descaracterizou o projeto e seu conceito de “espaço fluente”.\r\n\r\n\r\n A orla, uma das mais belas obras de arte naturais do Rio de Janeiro, agora encontra-se escondida por edificações privadas que limitam o uso público de uma importante área verde."
+      "text": "A população ocupada do Rio de Janeiro é formada por 54,4% de homens e 45,6% de mulheres, segundo dados da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua do Instituto Brasileiro de Geografia e Estatística (IBGE) do 4º trimestre de 2023. Na separação por raça, 51,5% são pessoas brancas e 48,5% são pessoas negras. A cidade do Rio possui 1,5 milhão de trabalhadores negros, em ocupações formais e informais, sendo 55,9% de homens e 44,1% de mulheres. \r\n\r\n\r\n A taxa de desemprego entre pessoas negras vem caindo de forma mais acelerada. Entre o 4º trimestre de 2020 e o 4º trimestre de 2023, a taxa entre os homens negros recuou 10,1 pontos percentuais e para mulheres negras, a taxa de desemprego reduziu em 11,0 pontos percentuais. \r\n\r\n\r\n Pelo nível de escolaridade, 42,4% da população ocupada no Rio tem o Ensino Superior completo e 40,7% com o Ensino Médio completo. Isso significa que 83,1% das pessoas têm, pelo menos, o Ensino Médio completo. E, 8,6% das pessoas com o Ensino Fundamental completo e 8,3% com o Ensino Fundamental incompleto. Ou seja, 16,9% das pessoas têm até o Ensino Fundamental. \r\n\r\n\r\n"
     }
     
   ],
   "solucao": [  {
     "block": "subhead",
-    "text": "<div style='text-align:left '>A Solução</div> "
+    "text": "<div style='text-align:left '>Futuro</div> "
   },
     {
       "block": "text",
-      "text": "O projeto de revitalização do MAM Rio e seu entorno surge pela necessidade de encontrar novas vocações turísticas e culturais para uma das mais icônicas áreas da cidade. Por meio de ações de restauração, urbanização e paisagismo, o MAM Rio e seu entorno voltarão a fazer parte da paisagem carioca e do calendário de eventos do Rio, do Brasil e do mundo. "
+      "text": "Os dados divulgados pelo IBGE reforçam a visão de que a criação de novos postos de trabalho deve continuar em 2024. "
     },
     {
       "block": "text",
-      "text": "<div class='border-2 border-black ' style=' margin-top:5rem;display: block;margin-left: -17rem;margin-right: auto;width: 200%;'><img src='assets/img/01_GERAL_r01.jpg'/></div> "
+      "text": "O número de pessoas desalentadas, formado por aqueles que não procuraram emprego por achar que não vão conseguir, por exemplo, recuou em 34,8% no 4º trimestre de 2023, em comparação com o mesmo período de 2020. Tais indicadores corroboram a tese de que as pessoas estão mais otimistas com a situação econômica."
     },
     {
       "block": "text",
-      "text": "<br><br><br><span style='font-weight:100; font-family: var(--dubois);text-transform: uppercase;color: var(--color-off-white);font-size: 25px;margin-top: 4rem;'>Criação da Orla Burle Marx</span> "
-    },
-    {
-      "block": "text",
-      "text": "O projeto “Orla Burle Marx” engloba uma série de intervenções que <span style='font-weight:bold'>abrangem aproximadamente 100.000 m².</span> Entre as principais melhorias planejadas está a recuperação e restauração dos vários jardins do museu, com a reposição e inserção de espécies perdidas ao longo do tempo, além da remoção de plantas debilitadas e espécies em desacordo com as especificações do projeto original de Roberto Burle Marx e recomendações do IPHAN. \r\n\r\n\r\n Além disso, o projeto prevê a valorização e preservação das esculturas existentes no entorno, integrando-as ao novo design. Também será dedicado espaço para exposições permanentes e temporárias, proporcionando um ambiente cultural dinâmico. \r\n\r\n\r\n A Orla Burle Marx conectará o Aeroporto Santos Dumont à Marina da Glória, tendo o MAM como seu ícone. O projeto celebra o encontro entre dois patrimônios da humanidade da UNESCO: a paisagem carioca entre o mar e a montanha e o Sítio Burle Marx, que preserva a obra e memória de um dos maiores gênios do modernismo brasileiro."
+      "text": "A previsão da Secretaria Municipal de Desenvolvimento Urbano e Econômico é que a taxa de desemprego na cidade do Rio recue mais em 2024, com a criação de milhares de novos postos de trabalho."
     }
     
   ],
@@ -80,7 +76,7 @@
   "deterioracao": [
     {
       "block": "text",
-      "text": "Atualmente, sete estabelecimentos compartilham espaço na mesma região, com alguns deles em situação de abandono, exibindo marcas de pichações e vandalismo. São eles: Clube Náutico Santa Luzia, Clube Náutico Internacional, Clube Náutico Boqueirão, Posto BR, Club de Regatas Vasco da Gama, Localiza, além de um terreno pertencente à Marinha Brasileira. Esses estabelecimentos vão contra a ideia original de Burle Marx de integrar o projeto paisagístico do museu a paisagem natural, com a Baía de Guanabara e o Pão de Açúcar."
+      "text": "Vale ressaltar que a população ocupada do Rio tem um nível maior de escolaridade do que do Brasil. No país, 23,5% da população ocupada tem o Ensino Superior completo e 66,4% têm, pelo menos, o Ensino Médio completo. \r\n\r\n\r\n A população de jovens historicamente apresenta taxas de desemprego mais elevadas do que a população de adultos devido à falta de experiência laboral, dificultando sua inserção no mercado de trabalho. Para o mesmo período, a taxa de desemprego de jovens cariocas de 15 a 29 anos foi reduzida em 15 pontos percentuais, passando de 31,2% para 14,7% no 4º trimestre de 2023. \r\n\r\n\r\n Além da taxa de desemprego, o percentual de jovens fora da escola e fora do mercado de trabalho (os chamados “nem-nem”) apresentou uma redução de 6,2 pontos percentuais, passando de 24% no 4º trimestre de 2020 para 17,8% no 4º trimestre de 2023."
     }
     
   ],
@@ -88,44 +84,46 @@
     {
       "block": "leadtext",
    
-      "id": "madera-ggp",
-      "text": "Os jardins do MAM Rio foram concebidos por Roberto Burle Marx, pioneiro do paisagismo moderno e multiartista internacionalmente reconhecido, e são um local frequente para o lazer carioca. Circundando o museu, eles harmonizam grandes gramados, linhas geométricas expressivas, espelhos d’água e jardins aquáticos, canteiros de pedras e uma diversidade de espécies. Integrados ao conjunto arquitetônico do MAM, os jardins fazem parte do Parque do Flamengo, reconhecido e tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) por seu valor paisagístico e arquitetônico. Também compõem a Paisagem Carioca, patrimônio imaterial da humanidade reconhecido pela UNESCO."
+      "id": "madera-mom",
+      "text": "O cenário atual de empregabilidade no Rio de Janeiro marca a plena recuperação do mercado de trabalho após o impacto da Covid-19 na economia. Entre o quarto trimestre de 2020 e o quarto trimestre de 2023,<b> 522 mil pessoas conseguiram encontrar uma ocupação, seja ela formal ou informal.</b> Esses indicadores reforçam o aquecimento econômico que nossa cidade vem vivenciando nos últimos três anos."
     },
     {
       "block": "leadtext",
-      "id": "madera-farm",
-      "text": "Ao abrigar uma profusão de espécies, os jardins valorizam a biodiversidade  brasileira: são 48 palmeiras-imperiais, a primeira plantada pelo então presidente Juscelino Kubitschek, além de plantas nativas da Caatinga — como as bromélias do Nordeste —, e da Amazônia, como as vitórias-régias. Em uma extensa área de gramados, Burle Marx planejou o contraste entre dois tipos de gramíneas, formando <span style='font-weight:bold'>o padrão ondulado que também caracteriza o calçadão de Copacabana</span> , outro projeto emblemático do paisagista."
+      "id": "madera-mom",
+      "text": "Com mais pessoas ocupadas, <b>o desemprego recuou para o menor patamar desde 2016.</b> Apesar da taxa ter aumentado com a pandemia, os números já se encontravam altos, acima de 12%, desde 2017. Mas graças a melhora da economia carioca e do mercado de trabalho, o desemprego caiu para uma taxa de 9,1% em 2023."
     },
-    {
-      "block": "leadtext",
-    
-      "id": "gardena-mom-and-me",
-      "text": "No dia 8 de julho de 1978, um incêndio que começou na Sala Corpo/Som do museu destruiu mais da metade de todo o acervo, composto por obras de artistas de renome como Lygia Clark, Pablo Picasso, Salvador Dalí, Cândido Portinari e Di Cavalcanti. Parte da história artística brasileira e mundial virou cinzas, numa perda com danos incalculáveis."
-    },
-    {
-      "block": "leadtext",
-      "id": "gardena-air",
-      "text": "Pouca coisa restou, entre elas a estrutura do prédio modernista como conhecemos hoje. À época, jornais apontaram como hipótese provável um curto-circuito causado por instalações elétricas defeituosas. O museu só foi reaberto três anos depois, em 1981."
-    },
-    
     {
       "block": "leadtext",
    
-      "id": "fremont",
-      "text": "Alguns anos mais tarde, problemas de ordem estrutural acometeram as edificações do MAM, e a falta de segurança para o acervo levou à suspensão das atividades do espaço. Após uma grande reforma, o MAM conseguiu superar essas dificuldades e reabriu ao público em 1989."
+      "id": "madera-mom",
+      "text": "Já a taxa de informalidade no Rio é menor do que no Brasil. Ao todo, 34,9% de todos os trabalhadores ocupados no quarto trimestre de 2023 eram informais. Em todo o país, esse percentual foi de 42,2%."
     },
     {
       "block": "leadtext",
       "id": "2acervo",
-      "text": "Com um comodato de mais de seis mil obras do acervo pessoal do diplomata e filho de Assis Chateaubriand, Gilberto Chateaubriand, o museu renasceu, apresentando uma coleção que inclui obras de artistas renomados como Tarsila do Amaral, Hélio Oiticica, Maria Martins, Lygia Clark, Auguste Rodin, Candido Portinari e Anita Malfatti. A partir deste recomeço, o museu reconstruiu o seu próprio acervo que conta hoje com mais sete mil obras, incluindo artistas como Djanira, Alberto Giacometti, Constantin Brancusi, Lygia Pape, Tunga e outros e comodato adicional do diplomata Joaquim Paiva de cerca de três mil fotografias."
+      "text": "O número de pessoas em situação mais vulnerável também caiu. "
     },
-    
     {
       "block": "leadtext",
-   
-      "id": "cimeira1",
-      "text": "Como palco de significativos eventos, a cidade do Rio de Janeiro desempenhou <a href='https://prefeitura-rio.github.io/G20Dataviz/' target=_blank'>um papel de epicentro de acontecimentos globais nos últimos séculos.</a> Um destes grandes eventos se deu no MAM, que sediou, nos dias 28 e 29 de junho de 1999, a primeira cúpula entre América Latina, Caribe e União Europeia. No interior do museu, <span style='font-weight:bold'>15 chefes de Estado e representantes de 48 países</span> estabeleceram uma Parceria Estratégica Birregional que perdura até hoje."
+      "id": "madera-mom",
+      "text": "No quarto trimestre de 2023, 328 mil pessoas deixaram de estar desocupadas, sub ocupadas, desalentadas e indisponíveis para o mercado de trabalho."
+    },
+    {
+      "block": "leadtext",
+      "id": "madera-mom",
+      "text": "Parte da recuperação do mercado de trabalho se deu pela retomada de postos com carteira assinada. Dados do Caged, do Ministério do Trabalho e Emprego (MTE), indicam que o  Rio de Janeiro gerou 258,3 mil novos postos de emprego formais entre 2021 e 2023. O setor de serviços, principal segmento da economia carioca, foi responsável por 74,9% dos novos postos de trabalho."
+    },
+    {
+      "block": "leadtext",
+      "id": "madera-mom",
+      "text": "Outros setores também registraram crescimento no número de novos vínculos, reforçando a visão de crescimento da economia carioca nos últimos anos. O comércio foi responsável por 10,7% dos novos empregos, enquanto a construção civil e a indústria representaram 8,9% e 5,5% dos empregos criados neste período, respectivamente."
+    },
+    {
+      "block": "leadtext",
+      "id": "madera-mom",
+      "text": "A criação de novos empregos fez com que a capital fluminense voltasse a figurar em segundo no ranking das cidades com maior geração de postos formais do país, atrás apenas de São Paulo. Nesse período, as novas vagas de trabalho da cidade representaram 48,3% de todos os empregos formais criados em todo o Estado do Rio de Janeiro."
     }
+   
   ],
   "blocks": [
     
@@ -138,7 +136,7 @@
    
     {
       "block": "triptych",
-      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura <br><br>"
+      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>ANA KARINE <strong>Segunda </strong> EVERTON <strong>Terceira </strong> ALEXANDRE <br><br>"
     }
  
  
@@ -234,18 +232,13 @@
   "blocks2": [
     {
       "block": "methodology",
-      "title": "Crédito das fotos \n<br><br> <span style='font-size:20px'>A história</span>",
-      "text": "Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 - Crédito: Autor Desconhecido\n Concretagem da estrutura - Crédito: Autor Desconhecido \n Concretagem da estrutura - Crédito: Acervo MAM Rio Jardins do Museu de Arte Moderna - Crédito: UFF Paisagismo\nJardins do Museu de Arte Moderna - Crédito: UFF Paisagismo\nFoto aérea do Museu de Arte Moderna- Crédito: UFF Paisagismo\nRepercussão Jornal do Brasil. 1978 - Crédito: Jornal do Brasil\nEquipe dos Bombeiros atuando no combate ao incêndio - Crédito: Jornal O Globo\nMuseu de Arte Moderna Incendiado - Crédito: Autor Desconhecido\nGilberto Chateaubriand - Crédito: Acervo MAM Rio\nJornal O Globo - Crédito: Jornal O Globo\n Jornal O Globo - Crédito: Jornal O Globo\n Primeira cúpula entre América Latina, Caribe e União Europeia - Crédito: Jornal O Globo\n Primeira cúpula entre América Latina, Caribe e União Europeia - Crédito: Jornal O Globo\nPrimeira cúpula entre América Latina, Caribe e União Europeia - Crédito: Jornal O Globo<br><br><br><br>"
+      "title": "<br><br><br><br><br><br>Autores",
+      "text": "Caio Jacintho\n Fernando Santana \n Judite Cypreste \n Lucas Tavares \n Pedro Meneghel<br><br>"
     },
     {
       "block": "methodology",
-      "title": "<span style='font-size:20px'>Declínio</span>",
-      "text": "Clube de Regatas Boqueirão do Passeio - Crédito: Marco Antonio Lima\nAo lado do Clube Terrasse Rio - Crédito: Marco Antonio Lima\nClub de Regatas Vasco da Gama (Sede Calabouço) - Crédito: Marco Antonio Lima\nJardins do Museu de Arte Moderna - Crédito: Marco Antonio Lima\nPilares de concreto do MAM - Crédito: Marco Antonio Lima\nPilares de concreto do MAM - Crédito: Marco Antonio Lima\nVídeo de Drone - Créditos: Raquel Camargo"
-    },
-    {
-      "block": "methodology",
-      "title": "<span style='font-size:20px'>A Solução</span>",
-      "text": "Perspectiva ilustrada da área compreendida entre o Museu de Arte Moderna e o Aeroporto Santos Dumont - Créditos: Pedro Meneghel\nPerspectiva ilustrada do Museu de Arte Moderna - Créditos: Pedro Meneghel\nPerspectiva ilustrada do Jardim de Esculturas - Créditos: Pedro Meneghel\nPerspectiva ilustrada do Parque Burle Marx- Créditos: Pedro Meneghel <div style='padding-top:10rem;width:50%', text-align:center><img src='assets/img/RioCapitalG20_Pref_cor.png'/> </div><br><br><br><br><br><br> "
+      "title": "Crédito das fotos",
+      "text": "Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 - Crédito: Autor Desconhecido\n Concretagem da estrutura - Crédito: Autor Desconhecido \n Concretagem da estrutura - Crédito: Acervo MAM Rio Jardins do Museu de Arte Moderna - Crédito: UFF Paisagismo\nJardins do Museu de Arte Moderna - Crédito: UFF Paisagismo <br><br><br><br> "
     }
    
   ]

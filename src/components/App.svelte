@@ -47,6 +47,7 @@
 <article>
   <!-- Display header -->
   <Hero />
+  
   <!-- Intro -->
   <section class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
@@ -145,7 +146,7 @@
       <Stains height={introH} />
     {/if}
   </section>
-  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+  <!-- <section id="text" class="px-4" bind:clientHeight={preMapH}>
     <div class="text-wrapper">
       {#each copy.blocks_deterioracao as props, i}
         <svelte:component
@@ -161,7 +162,7 @@
   </section>
   <div class="iframe-container">
     <iframe class="border-2 border-black" width="900" height="500" src="https://www.youtube.com/embed/vmqZFQy_lhg?si=4rjb380bBc_HiGv5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+</div> -->
 
   <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
@@ -177,7 +178,7 @@
       <Stains height={introH} />
     {/if}
   </section>
-  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+  <!-- <section id="text" class="px-4" bind:clientHeight={preMapH}>
     <div class="text-wrapper">
       {#each copy.blocks_solucao as props, i}
         <svelte:component
@@ -190,9 +191,9 @@
     {#if preMapH != undefined}
       <Stains height={preMapH} />
     {/if}
-  </section>
+  </section> -->
 
-  <section style="margin-top:28rem" class="intro-section" bind:clientHeight={introH}>
+  <!-- <section style="margin-top:28rem" class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
       {#each copy.solucao_continuacao as props, i}
         <svelte:component
@@ -205,10 +206,10 @@
     {#if introH != undefined}
       <Stains height={introH} />
     {/if}
-  </section>
+  </section> -->
   
   <section id="text-2" class="px-4" bind:clientHeight={outroH}>
-    <div class="text-wrapper">
+    <div class="text-wrapper2">
       {#each copy.blocks2 as props, i}
         <svelte:component
           this={blocks[props.block] ?? Text}
@@ -241,12 +242,17 @@ iframe {
   max-width: 100%;
   max-height: 100%;
 }
-  .text-wrapper {
-    padding-top:5rem;
-    position: relative;
-    z-index: 999;
-  }
 
+.text-wrapper {
+  padding-top:5rem;
+  position: relative;
+  z-index: 999;
+}
+.text-wrapper2 {
+  padding-top:5rem;
+  position: relative;
+  z-index: 999;
+}
   .relative-custom {
     width: 100%;
     margin: 3rem 0;
