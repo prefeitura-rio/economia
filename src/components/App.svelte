@@ -276,4 +276,9 @@ iframe {
       padding: 0;
     }
   }
+  @media only screen and  (max-width: 650px) {
+    .text-wrapper2 {
+      margin: 0 1rem;
+}
+  }
 </style>
