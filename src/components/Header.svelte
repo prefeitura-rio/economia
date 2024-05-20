@@ -10,8 +10,8 @@
         <img src={logoPretoHorizontal} alt="Logo Prefeitura" />
       </a>
     </div>
-    <p class="hed-text">O Rio nunca teve tanta gente trabalhando</p>
-    <p id="produzido_por" class="mb-1 byline sm">
+    <p class="hed-text">O Rio nunca teve<br> tanta gente<br>trabalhando</p>
+    <p id="produzido_por">
       Desenvolvido por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
     </p>
   </div>
@@ -31,15 +31,7 @@
     font-size: 1.5em; /* Tamanho da fonte para dispositivos grandes */
   }
 
-  @media only screen and (max-width: 600px) {
-    .title {
-      font-size: 1.5em; /* Tamanho da fonte para dispositivos pequenos */
-    }
 
-    .subtitle {
-      font-size: 1.2em; /* Tamanho da fonte para dispositivos pequenos */
-    }
-  }
 .topLeftImage {
   max-width: 12em;
   margin: 0 auto;
@@ -55,16 +47,17 @@
     padding: 0 2rem;
     line-height: 1;
     max-width: 40rem;
-    margin-top: 10rem;
-    text-align: center;
+    margin-top: 5rem;
+    text-align: left;
     /* margin-top:-50px  */
   }
 
   #produzido_por {
-    padding: 6rem 2rem;
+    padding-top: 4rem;
+    padding-bottom: 6rem;
     margin: 0 auto;
     line-height: 1;
-    max-width: 40rem;
+    max-width: 36rem;
     text-align: left;
   }
   .wordmark {
@@ -87,7 +80,16 @@
     fill: var(--color-off-black);
     stroke: none;
   }
+
   @media only screen and (max-width: 600px) {
+    .title {
+      font-size: 1.5em; /* Tamanho da fonte para dispositivos pequenos */
+    }
+
+    .subtitle {
+      font-size: 1.2em; /* Tamanho da fonte para dispositivos pequenos */
+    }
+
     .topLeftImage{
       display: none;
     }
@@ -99,7 +101,7 @@
     padding: 0 2rem;
     line-height: 1;
     max-width: 40rem;
-    margin-top: 10rem;
+    margin-top: 5rem;
     text-align: center;
     /* margin-top:-50px  */
   }

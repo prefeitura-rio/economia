@@ -1,5 +1,5 @@
 body {
-  background-color: var(--color-bg);
+  /* background-color: var(--color-bg); */
   color: var(--color-fg);
   background-image: url("https://pudding.cool/2022/11/upward-mobility/assets/img/bg_texture.png");
   background-size: 200px;

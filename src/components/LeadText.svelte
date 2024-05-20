@@ -118,10 +118,10 @@
   }
 
   .h-screen div {
-    border: 1px solid var(--color-off-black);
+    border: 2px solid var(--color-off-black);
     background-color: white;
     padding: 2rem 2rem 1rem 2rem;
-    box-shadow: 0px 0px 10px rgb(222 203 186 / 50%);
+    
     max-width: 25rem;
     margin: 0 auto;
   }

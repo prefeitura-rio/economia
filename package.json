@@ -39,9 +39,12 @@
   "subdirectory": "MAM",
   "dependencies": {
     "d3": "^7.3.0",
+    "install": "^0.13.0",
+    "npm": "^10.8.0",
     "roughjs": "^4.5.2",
     "scrollama": "^3.2.0",
     "svelte-image-compare": "^1.1.1",
+    "svelte-video-player": "^1.2.5",
     "topojson-client": "^3.1.0",
     "us": "^2.0.0"
   }

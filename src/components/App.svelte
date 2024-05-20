@@ -49,7 +49,7 @@
   <Hero />
   
   <!-- Intro -->
-  <section class="intro-section" bind:clientHeight={introH}>
+  <section style="margin-top:-15rem" class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
       {#each copy.intro as props, i}
         <svelte:component

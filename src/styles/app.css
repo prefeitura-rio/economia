@@ -8,6 +8,12 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background: 
+    linear-gradient(0deg, transparent 14px, rgba(0,0,0,.05) 15px, rgba(0,0,0,.05) 16px, transparent 17px),
+    linear-gradient(90deg, transparent 14px, rgba(0,0,0,.05) 15px, rgba(0,0,0,.05) 16px, transparent 17px);
+  background-size: 18px 18px;
+}
 /* ensure some elements have base styles like anchor tags */
 @layer base {
 	a {
@@ -61,7 +67,7 @@
 }
 
 .bg-custom {
-	background-color: #e7e7e7;
+	/* background-color: #e7e7e7; */
 }
 
 .text-label {
