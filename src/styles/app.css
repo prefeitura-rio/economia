@@ -14,6 +14,13 @@ body {
     linear-gradient(90deg, transparent 14px, rgba(0,0,0,.05) 15px, rgba(0,0,0,.05) 16px, transparent 17px);
   background-size: 18px 18px;
 }
+
+@media (max-width: 600px) {
+	.mobile_title {
+		font-size: 2.4rem !important;
+		margin: 0 1rem;
+	}
+}
 /* ensure some elements have base styles like anchor tags */
 @layer base {
 	a {

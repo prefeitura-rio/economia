@@ -18,7 +18,7 @@
   ],
   "problema": [  {
     "block": "subhead",
-    "text": "<div style='text-align:left; margin-top:17rem'>RAIO-X DO TRABALHADOR CARIOCA</div>"
+    "text": "<div class='mobile_title' style='text-align:left; margin-top:17rem'>RAIO-X DO TRABALHADOR CARIOCA</div>"
   },
     {
       "block": "text",
@@ -28,7 +28,7 @@
   ],
   "solucao": [  {
     "block": "subhead",
-    "text": "<div style='text-align:left '>Futuro</div> "
+    "text": "<div class='mobile_title' style='text-align:left '>Futuro</div> "
   },
     {
       "block": "text",

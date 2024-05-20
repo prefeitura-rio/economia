@@ -96,13 +96,13 @@
     .hed-text {
     font-family: var(--dubois-wide);
     text-transform: uppercase;
-    font-size: 2.5rem !important;
+    font-size: 2.4rem !important;
     margin: 0 auto;
     padding: 0 2rem;
     line-height: 1;
     max-width: 40rem;
     margin-top: 5rem;
-    text-align: center;
+    text-align: left;
     /* margin-top:-50px  */
   }
 

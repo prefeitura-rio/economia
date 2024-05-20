@@ -24,4 +24,11 @@
     padding-right: 0.2rem;
     padding-left: 0.1rem;
   }
+
+  @media only screen and (max-width: 600px) {
+   
+  p{
+    margin: 0 1rem;
+  }
+}
 </style>
