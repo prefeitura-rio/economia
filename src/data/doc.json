@@ -136,7 +136,7 @@
    
     {
       "block": "triptych",
-      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>ANA KARINE <strong>Segunda </strong> EVERTON <strong>Terceira </strong> ALEXANDRE <br><br>"
+      "text": "<br><br>"
     }
  
  
@@ -144,7 +144,7 @@
   "blocks_problema": [
     {
       "block": "problema",
-      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Club de Regatas Boqueirão do Passeio <strong>Segunda </strong> Ao lado do Clube Terrasse Rio <strong>Terceira </strong> Club de Regatas Vasco da Gama (Sede Calabouço)"
+      "text": "<div style='padding-top:2rem'></div> <b>FOTO ACIMA</b>: MARCOS DE PAULA/PREFEITURA DO RIO, <b>FOTO À DIREITA</b>: MARCOS DE PAULA/PREFEITURA DO RIO, <b>FOTO ABAIXO</b>: RAFAEL CATARCIONE/PREFEITURA DO RIO. <br><br>"
     }
   ],
   "blocks_deterioracao": [
@@ -237,8 +237,13 @@
     },
     {
       "block": "methodology",
-      "title": "Crédito das fotos",
-      "text": "MARCOS DE PAULA/PREFEITURA DO RIO \n RAFAEL CATARCIONE / PREFEITURA DO RIO <br><br><br><br> "
+      "title": "Agradecimentos",
+      "text": "Gabriela Hilário \n  Janaína Salles \n Joice Nascimento \n Marcel Grillo Balassiano   "
+    },
+    {
+      "block": "methodology",
+      "title": "Prefeito",
+      "text": "Eduardo Paes <br><br><br><br> "
     }
    
   ]

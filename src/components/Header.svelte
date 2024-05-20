@@ -6,13 +6,13 @@
 <header>
   <div class="headerWrapper">
     <div class="wordmark">
-      <a href="https://dados.rio/" target="_blank" aria-label="The Pudding">
+      <a href="https://dados.rio/" target="_blank" aria-label="Escritório de dados">
         <img src={logoPretoHorizontal} alt="Logo Prefeitura" />
       </a>
     </div>
     <p class="hed-text">O Rio nunca teve<br> tanta gente<br>trabalhando</p>
     <p id="produzido_por">
-      Desenvolvido por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+      Desenvolvido por <br><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
     </p>
   </div>
 </header>
@@ -56,7 +56,7 @@
     padding-top: 4rem;
     padding-bottom: 6rem;
     margin: 0 auto;
-    line-height: 1;
+    line-height: 1.4rem;
     max-width: 36rem;
     text-align: left;
   }
@@ -109,7 +109,7 @@
   #produzido_por {
     padding: 4rem 2rem;
     margin: 0 auto;
-    line-height: 1;
+    line-height: 1.3rem;
     max-width: 40rem;
     text-align: left;
   }
