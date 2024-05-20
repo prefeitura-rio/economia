@@ -12,7 +12,7 @@
     </div>
     <p class="hed-text">O Rio nunca teve<br> tanta gente<br>trabalhando</p>
     <p id="produzido_por">
-      Desenvolvido por <br><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+      Desenvolvido pelo <br><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da<br> Prefeitura do Rio de Janeiro </a> 
     </p>
   </div>
 </header>
