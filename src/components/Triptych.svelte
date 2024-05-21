@@ -49,13 +49,13 @@
       <div class="play-button" on:click|stopPropagation={() => playing1 = togglePlay(video1, playing1)} style="visibility: {playing1 ? 'hidden' : 'visible'}"><img width="80px" src="assets/img/intro/play.png"></div>
     </div>
     <div class="video-container border-2 border-black" id="gardena1-triptych">
-      <video bind:this={video2} width="300" height="auto" on:click={() => playing2 = togglePlay(video2, playing2)} poster="assets/img/intro/thumb3.jpg">
+      <video bind:this={video2} width="300" height="auto" on:click={() => playing2 = togglePlay(video2, playing2)} poster="assets/img/intro/thumb2.jpg">
         <source src="https://storage.googleapis.com/datario-public/dataviz-videos/ANA%20KARINE.mp4" type="video/mp4" />
       </video>
       <div class="play-button" on:click|stopPropagation={() => playing2 = togglePlay(video2, playing2)} style="visibility: {playing2 ? 'hidden' : 'visible'}"><img width="80px" src="assets/img/intro/play.png"></div>
     </div>
     <div class="video-container border-2 border-black" id="gardena2-triptych">
-      <video bind:this={video3} width="300" height="auto" on:click={() => playing3 = togglePlay(video3, playing3)} poster="assets/img/intro/thumb2.jpg">
+      <video bind:this={video3} width="300" height="auto" on:click={() => playing3 = togglePlay(video3, playing3)} poster="assets/img/intro/thumb3.jpg">
         <source src="https://storage.googleapis.com/datario-public/dataviz-videos/EVERTON%20FERREIRA.mp4" type="video/mp4" />
       </video>
       <div class="play-button" on:click|stopPropagation={() => playing3 = togglePlay(video3, playing3)} style="visibility: {playing3 ? 'hidden' : 'visible'}"><img width="80px" src="assets/img/intro/play.png"></div>
