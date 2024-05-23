@@ -34,10 +34,7 @@
       "block": "text",
       "text": "Os dados divulgados pelo IBGE reforçam a visão de que a criação de novos postos de trabalho deve continuar em 2024. "
     },
-    {
-      "block": "text",
-      "text": "O número de pessoas desalentadas, formado por aqueles que não procuraram emprego por achar que não vão conseguir, por exemplo, recuou em 34,8% no 4º trimestre de 2023, em comparação com o mesmo período de 2020. Tais indicadores corroboram a tese de que as pessoas estão mais otimistas com a situação econômica."
-    },
+
     {
       "block": "text",
       "text": "A previsão da Secretaria Municipal de Desenvolvimento Urbano e Econômico é que a taxa de desemprego na cidade do Rio recue mais em 2024, com a criação de milhares de novos postos de trabalho."
@@ -76,7 +73,7 @@
   "deterioracao": [
     {
       "block": "text",
-      "text": "Vale ressaltar que a população ocupada do Rio tem um nível maior de escolaridade do que do Brasil. No país, 23,5% da população ocupada tem o Ensino Superior completo e 66,4% têm, pelo menos, o Ensino Médio completo. \r\n\r\n\r\n A população de jovens historicamente apresenta taxas de desemprego mais elevadas do que a população de adultos devido à falta de experiência laboral, dificultando sua inserção no mercado de trabalho. Para o mesmo período, a taxa de desemprego de jovens cariocas de 15 a 29 anos foi reduzida em 15 pontos percentuais, passando de 31,2% para 14,7% no 4º trimestre de 2023. \r\n\r\n\r\n Além da taxa de desemprego, o percentual de jovens fora da escola e fora do mercado de trabalho (os chamados “nem-nem”) apresentou uma redução de 6,2 pontos percentuais, passando de 24% no 4º trimestre de 2020 para 17,8% no 4º trimestre de 2023."
+      "text": "Vale ressaltar que a população ocupada do Rio tem um nível maior de escolaridade do que do Brasil. No país, 23,5% da população ocupada tem o Ensino Superior completo e 66,4% têm, pelo menos, o Ensino Médio completo. \r\n\r\n\r\n A população de jovens historicamente apresenta taxas de desemprego mais elevadas do que a população de adultos devido à falta de experiência laboral, dificultando sua inserção no mercado de trabalho. A taxa de desemprego de jovens cariocas de 15 a 29 anos foi reduzida em 15 pontos percentuais, passando de 31,2% no 4º trimestre de 2020 para 14,7% no 4º trimestre de 2023. \r\n\r\n\r\n Além da taxa de desemprego, o percentual de jovens fora da escola e fora do mercado de trabalho (os chamados “nem-nem”) apresentou uma redução de 6,2 pontos percentuais, passando de 24% no 4º trimestre de 2020 para 17,8% no 4º trimestre de 2023."
     }
     
   ],
@@ -96,7 +93,7 @@
       "block": "leadtext",
    
       "id": "madera-mom",
-      "text": "Já a taxa de informalidade no Rio é menor do que no Brasil. Ao todo, 34,9% de todos os trabalhadores ocupados no quarto trimestre de 2023 eram informais. Em todo o país, esse percentual foi de 42,2%."
+      "text": "Já a taxa de informalidade no Rio é menor do que no Brasil. Ao todo, 33,7% de todos os trabalhadores ocupados no quarto trimestre de 2023 eram informais. Em todo o país, esse percentual foi de 39,1%."
     },
     {
       "block": "leadtext",
@@ -106,22 +103,22 @@
     {
       "block": "leadtext",
       "id": "madera-mom",
-      "text": "No quarto trimestre de 2023, 328 mil pessoas deixaram de estar desocupadas, sub ocupadas, desalentadas e indisponíveis para o mercado de trabalho."
+      "text": "No quarto trimestre de 2023, 327 mil pessoas deixaram de estar desocupadas, subocupadas, desalentadas e indisponíveis para o mercado de trabalho, em relação ao 4º trimestre de 2020."
     },
     {
       "block": "leadtext",
       "id": "madera-mom",
-      "text": "Parte da recuperação do mercado de trabalho se deu pela retomada de postos com carteira assinada. Dados do Caged, do Ministério do Trabalho e Emprego (MTE), indicam que o  Rio de Janeiro gerou 258,3 mil novos postos de emprego formais entre 2021 e 2023. O setor de serviços, principal segmento da economia carioca, foi responsável por 74,9% dos novos postos de trabalho."
+      "text": "Parte da recuperação do mercado de trabalho se deu pela retomada de postos com carteira assinada. Dados do Caged, do Ministério do Trabalho e Emprego (MTE), indicam que o Rio de Janeiro gerou 280,1 mil novos postos de empregos formais entre 2021 e março de 2024. O setor de serviços, principal segmento da economia carioca, foi responsável por 75,6% dos novos postos de trabalho."
     },
     {
       "block": "leadtext",
       "id": "madera-mom",
-      "text": "Outros setores também registraram crescimento no número de novos vínculos, reforçando a visão de crescimento da economia carioca nos últimos anos. O comércio foi responsável por 10,7% dos novos empregos, enquanto a construção civil e a indústria representaram 8,9% e 5,5% dos empregos criados neste período, respectivamente."
+      "text": "Outros setores também registraram crescimento no número de novos vínculos, reforçando a visão de crescimento da economia carioca nos últimos anos. A construção foi responsável por 10,7% dos novos empregos, enquanto o comércio e a indústria representaram 8,6% e 5,2% dos empregos criados neste período, respectivamente."
     },
     {
       "block": "leadtext",
       "id": "madera-mom",
-      "text": "A criação de novos empregos fez com que a capital fluminense voltasse a figurar em segundo no ranking das cidades com maior geração de postos formais do país, atrás apenas de São Paulo. Nesse período, as novas vagas de trabalho da cidade representaram 48,3% de todos os empregos formais criados em todo o Estado do Rio de Janeiro."
+      "text": "A criação de novos empregos fez com que a capital fluminense voltasse a figurar em segundo no ranking das cidades com maior geração de postos formais do país, atrás apenas de São Paulo. Nesse período, as novas vagas de trabalho da cidade representaram 48,6% de todos os empregos formais criados em todo o Estado do Rio de Janeiro."
     }
    
   ],
@@ -233,12 +230,12 @@
     {
       "block": "methodology",
       "title": "<br><br><br><br><br><br>Autores",
-      "text": "Caio Jacintho\n Fernando Santana \n Judite Cypreste \n Lucas Tavares \n Pedro Meneghel<br><br>"
+      "text": "Caio Jacintho\n Fernando Santana \n Judite Cypreste \n Lucas Tavares \n Marcel Grillo Balassiano  \n Pedro Meneghel<br><br>"
     },
     {
       "block": "methodology",
       "title": "Agradecimentos",
-      "text": "Gabriela Hilário \n  Janaína Salles \n Joice Nascimento \n Marcel Grillo Balassiano   "
+      "text": "Chicão Bulhões \n Gabriela Hilário \n  Janaína Salles \n João Carabetta \n Joice Nascimento   "
     },
     {
       "block": "methodology",

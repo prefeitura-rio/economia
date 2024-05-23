@@ -9,6 +9,7 @@
  <footer class="footer">
 	<div class="footer_logo">
 		<img class="photo_logo" src="assets/img/intro/logo_preto_horizontal.png" alt="Foto" />
+		<img class="photo_logo2" src="assets/img/intro/logo.png" alt="Foto" />
 	</div>
 	<br>
 	<br>
@@ -19,17 +20,39 @@
 		.footer{
 			margin-left: 0.9rem ;
 		}
+		.footer_logo{
+			display: flex;
+			flex-direction: column;
+			align-items: center !important;
+			gap: 3rem !important;
+		}
+		.photo_logo{
+		width: 220px !important;
+		height: auto !important;
+		/* height: 53px; */
+	}
+	.photo_logo2{
+		width: auto;
+		height: 50px;
+	}
 	}
 	#autores, #agradecimentos, #prefeito{
 		border-bottom: 3px solid var(--color-highlight);
 		font-size: 25px;
 	}
 	.footer_logo{
-		padding-top:10rem;
-		padding-bottom:10rem;
+		display: flex;
+		gap: 1rem;
+		/* padding-top:-1rem; */
+		/* padding-bottom:-1rem; */
 	}
 	.photo_logo{
-		width: 200px;
+		width: auto;
+		height: 53px;
+	}
+	.photo_logo2{
+		width: auto;
+		height: 50px;
 	}
 	.footer {
 	margin-bottom: 15vh;
