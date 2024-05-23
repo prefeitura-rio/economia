@@ -1,7 +1,7 @@
 <script>
   export let title = "Dataviz";
   export let description = "Escritório de Dados";
-  export let url = "https://github.com/prefeitura-rio/economia";
+  export let url = "https://prefeitura-rio.github.io/economia";
   export let keywords = "economic, opportunity, migration, great migration, neighborhood, community, family, income, race";
   export let preloadFont = [];
 </script>
