@@ -25,8 +25,8 @@
 	<meta property="og:image:height" content="600" />
 
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="https://pudding.cool" />
-	<meta name="twitter:creator" content="@puddingviz" />
+	<meta name="twitter:site" content="https://prefeitura-rio.github.io/economia" />
+	<meta name="twitter:creator" content="@escritoriodedados" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={description} />
 	<meta name="twitter:image:src" content="{url}/assets/thumb_ct.jpg"  />

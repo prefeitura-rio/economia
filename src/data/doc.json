@@ -12,7 +12,7 @@
   },
     {
       "block": "text",
-      "text": "Nesta visualização você conhecerá três cariocas: Ana Karine, o Everton e o Alexandre. Sabe o que eles têm em comum? Todos estes moradores da cidade maravilhosa conseguiram um emprego este ano. E assim como eles, 522 mil pessoas conseguiram uma ocupação nos últimos três anos. \r\n\r\n\r\n Ao todo, 3,3 milhões de pessoas estão empregadas no Rio em algum tipo de atividade remunerada, segundo dados coletados e analisados pela Secretaria Municipal de Desenvolvimento Urbano e Econômico (SMDUE), com base em informações do IBGE. \r\n\r\n\r\n O número é o maior já registrado desde o início da série histórica, iniciada em 2012. A taxa de desemprego, por sua vez, está no menor nível desde 2016. \r\n\r\n\r\n Neste especial, você conhecerá a história desses três trabalhadores e terá um panorama da atual recuperação da economia carioca."
+      "text": "Nesta visualização você conhecerá três cariocas: Ana Karine, o Everton e o Alexandre. Sabe o que eles têm em comum? Todos estes moradores da cidade maravilhosa conseguiram um emprego este ano. E assim como eles, 522 mil pessoas conseguiram uma ocupação nos últimos três anos. \r\n\r\n\r\n Ao todo, 3,3 milhões de pessoas estão empregadas no Rio em algum tipo de atividade remunerada, segundo dados coletados e analisados pela Secretaria Municipal de Desenvolvimento Urbano e Econômico (SMDUE), com base em informações do IBGE <b>e do Cadastro Geral de Empregados e Desempregados (CAGED), do Ministério do Trabalho e Emprego</b>. \r\n\r\n\r\n O número é o maior já registrado desde o início da série histórica, iniciada em 2012. A taxa de desemprego, por sua vez, está no menor nível desde 2016. \r\n\r\n\r\n Neste especial, você conhecerá a história desses três trabalhadores e terá um panorama da atual recuperação da economia carioca."
     }
     
   ],
@@ -235,7 +235,17 @@
     {
       "block": "methodology",
       "title": "Agradecimentos",
-      "text": "Chicão Bulhões \n Gabriela Hilário \n  Janaína Salles \n João Carabetta \n Joice Nascimento   "
+      "text": "Gabriela Hilário \n  Janaína Salles \n Joice Nascimento   "
+    },
+    {
+      "block": "methodology",
+      "title": "Coordenador do Escritório de Dados",
+      "text": "João Carabetta"
+    },
+    {
+      "block": "methodology",
+      "title": "Secretário de Desenvolvimento Urbano e Econômico",
+      "text": "Chicão Bulhões"
     },
     {
       "block": "methodology",
